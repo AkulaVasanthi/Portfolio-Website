@@ -1,0 +1,6 @@
+{
+  "name": "Akula Vasanthi Portfolio",
+  "description": "Modern, premium, futuristic AI-inspired portfolio website for Akula Vasanthi, CSE (Artificial Intelligence) student and future AI engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
